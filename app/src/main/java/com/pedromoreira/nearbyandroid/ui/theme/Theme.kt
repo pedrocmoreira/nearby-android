@@ -33,7 +33,7 @@ private val DarkColors = darkColorScheme(
 )
 
 @Composable
-fun NearbyTheme(
+fun NearbyAndroidTheme(
     darkTheme: Boolean = false,
     content: @Composable () -> Unit
 ) {
